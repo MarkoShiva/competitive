@@ -52,4 +52,3 @@ assert lifo(string) == False             # Proper checking via LIFO implementati
 assert lifo(string1) == False
 assert lifo(string2) == False
 assert lifo(string3) == True
-
